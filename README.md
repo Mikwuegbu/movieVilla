@@ -1,6 +1,6 @@
 #Movie villa 
 
-This is a Web App by to Practice the use of
+This is a Movie app to Practice the use of
 html5, Css(Bootstrap5), Javascript in FrontEnd 
 development.
 
